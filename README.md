@@ -5,7 +5,7 @@ Over the past months i learned HTML,CSS and Javascript while working full time f
 Currently I'm learning React because i'm aiming for a job as React developer.
 Because Typescript is working well with React, that's something i aim to learn in the near future.
 
-Over the past few months coding became a hobby and who doesn't want to make his hobby to his working place,right? ;)
+Over the past few months coding became a hobby and who doesn't want to make his hobby his working place,right? ;)
 
 Check out my website bartosz-mieszkalski.de and reach out to me if you're interested in a passionate new worker.
 
