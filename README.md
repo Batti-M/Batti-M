@@ -7,7 +7,7 @@ Because Typescript is working well with React, that's something i aim to learn i
 
 Over the past few months coding became a hobby and who doesn't want to make his hobby his working place,right? ;)
 
-Check out my website bartosz-mieszkalski.de and reach out to me if you're interested in a passionate new worker.
+Check out my website bartosz-mieszkalski.de and reach out to me if you're interested in a passionate new employee
 
 <!---
 Batti-M/Batti-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
